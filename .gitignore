@@ -1,0 +1,20 @@
+########################################################
+# Exclude from Git, Project and Deployment (unused files in the project - documentation, notes,...)
+-*
+# Exclude only from Git (EOG = Exclude Only Git) - personal things
+*_EOG.*
+*_EOG
+########################################################
+
+#####################################################################################
+# URL where I got this from: https://github.com/toptal/gitignore/blob/master/templates/LTspice.gitignore
+
+# Logfile
+*.log
+
+# Simulation Outputs
+*.raw
+*.fft
+
+# Netlist
+*.net
