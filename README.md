@@ -1,10 +1,24 @@
-
 # Homemade-30V-4A-DC-PSU
 My \[in development\] homemade DC PSU of 30 V / 4 A
 
+## Table of Contents
+- [Background](#background)
+- [Pictures](#pictures)
+- [Characteristics](#characteristics)
+- - [Intended generic ones](#intended-generic-ones)
+- - [Current ones](#current-ones)
+- [Calculations](#calculations)
+- [Final notes and contributing](#final-notes-and-contributing)
+
+## Background
 Hi. To power future electronic projects of mine (have a few in mind), I've decided to make a DC power supply. Not a simple one, like 5 V / 500 mA or something like that - a power PSU (if you can call it that).
 
 **This project uses LTspice (forget the "AGS Script" language from GitHub - it's wrong).**
+
+## Pictures
+(There are more on the Photos folder)
+
+<img src="Photos/IMG_20220916_185118_0.jpg" width="500"><img src="Photos/IMG_20220613_200632_0.jpg" width="500">
 
 ## Characteristics
 ### Intended generic ones
@@ -26,16 +40,12 @@ Hi. To power future electronic projects of mine (have a few in mind), I've decid
 #### Regulator module
 - Precision regulator to use for the op-amp to compare with the output, while also being a very low regulator voltage (the greater the comparator voltage, the greater the minimum - and I'd still like a very low output voltage to test on very low voltage devices, if I ever want to, like a clock)
 
-
 ## Calculations
-To see the calculations for everything, check the Calculations.docx file. I'm writing everything in there.
+To see the calculations for everything, check the `Calculations.docx` file. I'm writing everything there.
 
-## Pictures
-(There are more on the Photos folder)
-
-<img src="Photos/IMG_20220916_185118_0.jpg" width="500"><img src="Photos/IMG_20220613_200632_0.jpg" width="500">
-
-## Final notes
+## Final notes and contributing
 It's being really cool to make this PSU. It's also taking me much time, because I'm not at home to solder anything on it, so I can only develop on LTspice and think if that matches what I think that would happen in practice (intuition (what I used to realize there would be a problem on the unregulated module comparator without some better mechanism than a simple op-amp) and the little experience I still have).
 
 Also, if any component files are missing, tell me and I'll provide them (I found a lot of devices on a ZIP and downloaded them all and I use any device that is comparable to the ones I have available).
+
+Any new ideas and/or improvements are welcomed! (Just giving the idea and/or making a pull request)
