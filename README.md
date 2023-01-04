@@ -44,7 +44,7 @@ Hi. To power future electronic projects of mine (have a few in mind), I've decid
 To see the calculations for everything, check the `Calculations.docx` file. I'm writing everything there.
 
 ## Final notes and contributing
-It's being really cool to make this PSU. It's also taking me much time, because I'm not at home to solder anything on it, so I can only develop on LTspice and think if that matches what I think that would happen in practice (intuition (what I used to realize there would be a problem on the unregulated module comparator without some better mechanism than a simple op-amp) and the little experience I still have).
+It's being really cool to make this PSU. It's also taking me much time, because I'm not at home to solder anything on it, so I can only develop on LTspice and think if that matches what I think that would happen in practice (intuition and the little experience I still have).
 
 Also, if any component files are missing, tell me and I'll provide them (I found a lot of devices on a ZIP and downloaded them all and I use any device that is comparable to the ones I have available).
 
