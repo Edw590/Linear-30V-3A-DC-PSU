@@ -1,5 +1,5 @@
-# Homemade-30V-4A-DC-PSU
-My \[in development\] homemade DC PSU of 30 V / 4 A
+# Homemade-30V-3A-DC-PSU
+My \[in development\] homemade DC PSU of 30 V / 3 A
 
 ## Table of Contents
 - [Background](#background)
