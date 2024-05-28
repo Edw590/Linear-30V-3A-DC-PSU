@@ -1,0 +1,3 @@
+*.asc linguist-detectable
+*.asy linguist-detectable
+*.asc linguist-language=LTspice-Symbol
