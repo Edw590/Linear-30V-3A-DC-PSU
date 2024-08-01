@@ -14,9 +14,9 @@ My \[in development\] homemade DC PSU of 30 V / 3 A
 Hi. To power future electronic projects of mine (have a few in mind), I've decided to make a DC power supply. Not a simple one, like 5 V / 500 mA or something like that - a power PSU (if you can call it that).
 
 ## Pictures
-(There are more on the Photos folder)
+(There are more on the Pictures folder)
 
-<img src="Photos/IMG_20220916_185118_0.jpg" width="500"><img src="Photos/IMG_20220613_200632_0.jpg" width="500">
+<img src="Pictures/IMG_20220916_185118_0.jpg" width="500"><img src="Pictures/IMG_20220613_200632_0.jpg" width="500">
 
 ## Characteristics
 ### Intended generic ones
